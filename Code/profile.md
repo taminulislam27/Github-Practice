@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Taminul Islam
+## 👋 Hi, I'm Your Name
 
-# 💻 Competitive Programmer | 🚀 ICPC Aspirant
-# 🎯 Passionate about Problem Solving & Algorithms
+ 💻 Competitive Programmer | 🚀 ICPC Aspirant
+ 🎯 Passionate about Problem Solving & Algorithms
 
 ## 🧠 About Me
-🎓 Completed Bachelor of Science from University of Barishal, Bangladesh<br>
+🎓 Completed Bachelor of Science from Dash University, Bangladesh<br>
 💡 Participated in onsite contests including ICPC Onsites & IUPCs<br>
 🔥 Solved 1600+ problems and participated in 160+ contests<br>
 📚 Strong foundation in Data Structures & Algorithms<br>
@@ -15,22 +15,15 @@
 🥈 Secured 2nd position in Phitron Monthly Contest 2023<br>
 🚀 Ranked 167th at ICPC Preliminary Dhaka Site 2024<br>
 ## 💻 Competitive Profiles
-🔵 Codeforces: https://codeforces.com/profile/Neyamul_Haq<br>
-🟡 CodeChef: https://www.codechef.com/users/no_one22<br>
-🟠 LeetCode: https://leetcode.com/Neamul_haq<br>
-## 📊 Problem Solving Overview
-Platform	Handle	Solved	Max Rating	Contests
-Codeforces	Neyamul_Haq	951	1430	82
-CodeChef	no_one22	263	1696	31
-LeetCode	Neamul_haq	241	—	—
-Vjudge	BU0634_neamul	—	—	52
-## 📈 Codeforces Stats
+🔵 Codeforces: https://codeforces.com/profile/username<br>
+🟡 CodeChef: https://www.codechef.com/users/username<br>
+🟠 LeetCode: https://leetcode.com/username<br>
 
+## 📈 Programming Stats
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Username)
 
-
-## 📊 LeetCode Stats
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Username)
 
 
 
@@ -43,22 +36,25 @@ STL & Data Structures
 ## 📂 CP Portfolio
 
 🔗 Check my problem-solving repository:
-👉 https://github.com/your_username/CP-Solutions
+👉 CP-Solutions Link
 
 ## 📈 GitHub Stats
+<div align="center">
+     <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" /> 
+</div>
 
 
 
 
 
 
+## 🎯 Goals
+🚀 Perform strongly in ICPC Regionals<br>
+📈 Increase Codeforces Rating (Specialist → Expert)<br>
+🧠 Master Advanced Algorithms<br>
+🏆 Achieve top ranks in IUPC & national contests<br>
 
-##🎯 Goals
-🚀 Perform strongly in ICPC Regionals
-📈 Increase Codeforces Rating (Specialist → Expert)
-🧠 Master Advanced Algorithms
-🏆 Achieve top ranks in IUPC & national contests
-⚡ Motto
+## ⚡ Motto
 
 Consistency beats talent when talent doesn’t work consistently.
 
